@@ -3,7 +3,6 @@
 **An end-to-end, modular photometry pipeline for astronomical imaging, built for academic and research purposes.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Enabled-green)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
@@ -33,9 +32,3 @@ Designed to support both **GUI-based workflows** and **script-based analysis**, 
 - ✅ Logging and error reporting  
 - ✅ Modular design for extensibility
 
-## 🖥️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SahabistaAA/extrapolation_photometry.git
-   cd extrapolation_photometry
